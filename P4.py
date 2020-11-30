@@ -13,7 +13,7 @@
 # 
 # * Estudiante: **Kervin José Viales Coronado**
 # * Carné: **B78283**
-# * Grupo: **1/2**
+# * Grupo: **1/2** 
 # 
 # ---
 # # `P4` - *Modulación digital IQ*
